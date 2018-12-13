@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="fr" dir="ltr">
 <link rel="stylesheet" href="contact.vue.css">
   <head>
@@ -16,15 +16,15 @@
 
 <!--Navigateur-->
 <nav>
-  <a href="../vue/Page_Acceuil.vue.html">Accueil</a>
-  <a href="../vue/Galerie.vue.html">Galerie</a>
-  <a href="../vue/Travail.vue.html">Notre travail</a>
-  <a href="../vue/Avis.vue.html">Avis</a>
-  <a href="../vue/Contact.vue.html">Contactez-Nous</a>
+  <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
+  <a href="../vue/Galerie.vue.php">Galerie</a>
+  <a href="../vue/Travail.vue.php">Notre travail</a>
+  <a href="../vue/Avis.vue.php">Avis</a>
+  <a href="../vue/Contact.vue.php">Contactez-Nous</a>
 </nav>
 
 <!--formulaire de contact-->
-    <form class="formulaire" action="index.html" method="post">
+    <form class="formulaire" action="index.php" method="post">
       <div class="item">
         <p>Nom*</p>
         <input type="text" class="nom" placeholder="Nom"required >
@@ -67,7 +67,7 @@
     <p>* Obligatoire</p>
 <!--Contact-->
     <div class="contact">
-      <a href="../vue/Contact.vue.html"><h3>Contactez-nous !</h3></a>
+      <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
       <div class="infos">
       <div class="item"><u>Téléphone :</u>
       <p> 06 25 01 27 48</p>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="fr" dir="ltr">
 <link rel="stylesheet" href="Avis.vue.css">
   <head>
@@ -15,15 +15,15 @@
     </div>
 <!--Navigateur-->
     <nav>
-      <a href="../vue/Page_Acceuil.vue.html">Accueil</a>
-      <a href="../vue/Galerie.vue.html">Galerie</a>
-      <a href="../vue/Travail.vue.html">Notre travail</a>
-      <a href="../vue/Avis.vue.html">Avis</a>
-      <a href="../vue/contact.vue.html">Contactez-Nous</a>
+      <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
+      <a href="../vue/Galerie.vue.php">Galerie</a>
+      <a href="../vue/Travail.vue.php">Notre travail</a>
+      <a href="../vue/Avis.vue.php">Avis</a>
+      <a href="../vue/contact.vue.php">Contactez-Nous</a>
     </nav>
     <div class="avis">
       <h3>Top avis</h3>
-      <a href="laisser_avis.vue.html">Laisser un avis</a>
+      <a href="laisser_avis.vue.php">Laisser un avis</a>
     </div>
       <div class="unAvis">
         <h4>Un utilisateur</h4>
@@ -32,7 +32,7 @@
       </div>
     <div class="avis">
       <h3>Les derniers avis</h3>
-      <a href="laisser_avis.vue.html">Laisser un avis</a>
+      <a href="laisser_avis.vue.php">Laisser un avis</a>
     </div>
       <div class="unAvis">
         <h4>Un utilisateur</h4>
@@ -49,7 +49,7 @@
 
 <!--Contact-->
     <div class="contact">
-      <a href="../vue/Contact.vue.html"><h3>Contactez-nous !</h3></a>
+      <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
       <div class="infos">
       <div class="item"><u>Téléphone :</u>
       <p> 06 25 01 27 48</p>
