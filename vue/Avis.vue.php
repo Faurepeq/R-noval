@@ -19,7 +19,7 @@
       <a href="../vue/Galerie.vue.php">Galerie</a>
       <a href="../vue/Travail.vue.php">Notre travail</a>
       <a href="../vue/Avis.vue.php">Avis</a>
-      <a href="../vue/contact.vue.php">Contactez-Nous</a>
+      <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
     <div class="avis">
       <h3>Top avis</h3>
