@@ -13,6 +13,7 @@ a{
   flex-wrap: nowrap;
   width: 100%;
   justify-content: center;
+  height: 180px;
 }
 .titre img{
   height: 130px;
@@ -21,7 +22,7 @@ a{
 }
 .nomslogan{
   text-align: center;
-}
+  height: 180px;
 h1{
   font-size: 54px;
   color: green;

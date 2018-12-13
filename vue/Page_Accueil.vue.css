@@ -13,6 +13,7 @@ a{
   flex-wrap: nowrap;
   width: 100%;
   justify-content: center;
+  height: 180px;
 }
 .titre img{
   height: 130px;
