@@ -1,0 +1,191 @@
+body {
+ background-color:white;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+a{
+  text-decoration: none;
+}
+/*logo et titre*/
+.titre{
+  display:flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  justify-content: center;
+}
+.titre img{
+  height: 130px;
+  width: 150px;
+  margin: 30px;
+}
+.nomslogan{
+  text-align: center;
+}
+h1{
+  font-size: 54px;
+  color: green;
+  margin: 0;
+  margin-top: 30px;
+  font-weight: bold;
+}
+h2{
+  font-size: 26px;
+  margin: 0;
+}
+/*Navigateur*/
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: grey;
+  border-radius: 10px;
+  width: 100%;
+  height: 40px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+nav a {
+  font-family: "gill";
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  height: 80%;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+nav a:hover {
+  background-color: white;
+  color: green;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  height: 80%;
+}
+
+/*formulaire de contact*/
+.formulaire{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.formulaire .item {
+  width: 100%;
+  justify-content: center;
+  margin: 0px 100px;
+}
+.formulaire .item p{
+  font-size: 22px;
+}
+.nom{
+  margin-left: 40px;
+}
+.mail{
+  margin-left: 30px;
+}
+.adresse{
+  margin-left: 30px;
+}
+.ville{
+  margin-left: 60px;
+}
+.postal{
+  margin-left: 0px;
+}
+.telephone{
+  margin-left: 0px;
+}
+.item p{
+  margin-right: 10px;
+}
+.formulaire .fichier p{
+  font-size: 22px;
+}
+.formulaire .fichier {
+  width: 40%;
+}
+input{
+  margin-top: 15px;
+  margin-left: 20px;
+  height: 30px;
+}
+.descr{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+.descr p{
+  width: 100%;
+  font-size: 20px;
+  margin: 15px 0px 0px 0px;
+}
+.description{
+width: 70%;
+height: 250px;
+}
+
+.envoi{
+  margin-bottom: 50px;
+  width: 10%;
+  height:5%;
+  color: green;
+  font-size: 22px;
+  font-weight: bold;
+  border: solid black 2px;
+}
+.envoi:hover{
+
+  border: solid green 2px;
+}
+
+.fichier{
+  border: solid black 2px;
+  padding: 10px;
+  width: 70%;
+}
+
+/*Contact*/
+.contact{
+  padding-bottom: 10px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  border: solid black 3px;
+  width: 100%
+}
+.contact a{
+  color:green;
+  font-weight: bold;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: solid black 2px;
+}
+.contact a:hover{
+  border: solid green 2px;
+}
+h3{
+  margin: 0;
+  font-size: 30px;
+}
+.contact p{
+  margin: 0;
+  margin-left: 5px;
+}
+
+.contact .infos{
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+}
+
+.item {
+  display: flex;
+  margin: 0;
+}

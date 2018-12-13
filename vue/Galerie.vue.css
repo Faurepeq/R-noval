@@ -1,0 +1,123 @@
+body {
+ background-color:white;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+a{
+  text-decoration: none;
+}
+/*logo et titre*/
+.titre{
+  display:flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  justify-content: center;
+}
+.titre img{
+  height: 130px;
+  width: 150px;
+  margin: 30px;
+}
+.nomslogan{
+  text-align: center;
+}
+h1{
+  font-size: 54px;
+  color: green;
+  margin: 0;
+  margin-top: 30px;
+  font-weight: bold;
+}
+h2{
+  font-size: 26px;
+  margin: 0;
+}
+/*Navigateur*/
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: grey;
+  border-radius: 10px;
+  width: 100%;
+  height: 40px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+nav a {
+  font-family: "gill";
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  height: 80%;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+nav a:hover {
+  font-weight: bold;
+  background-color: white;
+  color: green;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  height: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Contact*/
+.contact{
+  padding-bottom: 10px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  border: solid black 3px;
+  width: 100%
+}
+.contact a{
+  color:green;
+  font-weight: bold;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: solid black 2px;
+}
+.contact a:hover{
+  border: solid green 2px;
+}
+h3{
+  margin: 0;
+  font-size: 30px;
+}
+.contact p{
+  margin: 0;
+  margin-left: 5px;
+}
+
+.contact .infos{
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+}
+
+.item {
+  display: flex;$
+  margin: 0;
+}
