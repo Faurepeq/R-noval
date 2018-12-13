@@ -28,7 +28,7 @@
 
 <!--Contact-->
     <div class="contact">
-      <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
+      <a href="../vue/contact.vue.php"><h3>Contactez-nous !</h3></a>
       <div class="infos">
       <div class="item"><u>Téléphone :</u>
       <p> 06 25 01 27 48</p>
