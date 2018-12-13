@@ -10,7 +10,6 @@
     <div class="titre">
     <img src="../modele/data/logo.jpg" alt="logo">
     <div class="nomslogan"><h1>Rénoval</h1>
-        <h2>slogan ou autre</h2>
     </div>
     </div>
 <!--Navigateur-->
