@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html lang="fr" dir="ltr">
 <link rel="stylesheet" href="Page_Accueil.vue.css">
   <head>
@@ -21,7 +21,22 @@
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
 
-
+    <div class="laisseavis">
+      <input type="text" class="nom"  v placeholder="nom ou pseudo">
+      <input type="text"  class="avistext" placeholder="laisser un avis">
+    <div class="noteclass">
+      <p>1</p>
+      <input type="radio" class="note">
+      <p>2</p>
+      <input type="radio" class="note">
+      <p>3</p>
+      <input type="radio" class="note">
+      <p>4</p>
+      <input type="radio" class="note">
+      <p>5</p>
+      <input type="radio" class="note" checked>
+    </div>
+    </div>
 
 
 

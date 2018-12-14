@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html lang="fr" dir="ltr">
 <link rel="stylesheet" href="Contact.vue.css">
   <head>
