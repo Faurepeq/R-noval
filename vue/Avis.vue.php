@@ -20,32 +20,26 @@
       <a href="../vue/Avis.vue.php">Avis</a>
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
-    <div class="avis">
-      <h3>Top avis</h3>
-      <a href="laisser_avis.vue.php">Laisser un avis</a>
-    </div>
-      <div class="unAvis">
-        <h4>Un utilisateur</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>NB etoiles sur 5</p>
-      </div>
-    <div class="avis">
-      <h3>Les derniers avis</h3>
-      <a href="laisser_avis.vue.php">Laisser un avis</a>
-    </div>
-      <div class="unAvis">
-        <h4>Un utilisateur</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>NB etoiles sur 5</p>
-      </div>
-      <div class="unAvis">
-        <h4>Un utilisateur</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>NB etoiles sur 5</p>
-      </div>
-
-
-
+    <?php
+    echo"<div class="avis">";
+      echo"<h3>Top avis</h3>";
+      echo"<a href="laisser_avis.vue.php">Laisser un avis</a>"
+    echo"</div>";
+      echo"<div class="unAvis">";
+        echo"<h4>Un utilisateur</h4>";
+        echo"<p></p>";
+        echo"<p>NB etoiles sur 5</p>";
+      echo"</div>";
+      echo"<div class="avis">";
+        echo"<h3>les derniers avis</h3>";
+        echo"<a href="laisser_avis.vue.php">Laisser un avis</a>"
+      echo"</div>";
+        echo"<div class="unAvis">";
+          echo"<h4>Un utilisateur</h4>";
+          echo"<p></p>";
+          echo"<p>NB etoiles sur 5</p>";
+        echo"</div>";
+     ?>
 <!--Contact-->
     <div class="contact">
       <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
