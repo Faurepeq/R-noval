@@ -77,6 +77,8 @@ nav a:hover {
 }
 .avis{
   background-color: white;
+  display: flex;
+  justify-content: center;
   width: 60%;
 }
 .titre{
@@ -90,7 +92,7 @@ nav a:hover {
 .unAvis{
   display: flex;
   justify-content: center;
-  width: 70%;
+  width: 95%;
   flex-wrap: wrap;
   border: solid black 2px;
   margin: 10px 0px;
