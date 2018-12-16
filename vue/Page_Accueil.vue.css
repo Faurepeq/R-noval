@@ -23,9 +23,6 @@ nav {
   padding-right: 3px;
 }
 nav a {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   font-family: "gill";
   font-weight: bold;
   font-size: 30px;
@@ -34,6 +31,7 @@ nav a {
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 27px;
+  margin-top: 20px;
   height: 100%;
 }
 nav a:hover {
