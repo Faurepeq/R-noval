@@ -8,19 +8,21 @@
   <body>
 <!--logo et titre de la page-->
     <div class="titre">
-    <img src="../modele/data/logo.jpg" alt="logo">
-    <div class="nomslogan"><h1>Rénoval</h1>
+
     </div>
     </div>
     <!--Navigateur-->
     <nav>
-      <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
+
+      <a href="../vue/Page_Acceuil.vue.php"><img src="../modele/data/logo.jpg" alt="logo"></a>
+      <a href="../vue/Page_Acceuil.vue.php"><div class="nomslogan"><h1>Rénoval</h1></a>
       <a href="../vue/Galerie.vue.php">Galerie</a>
       <a href="../vue/Travail.vue.php">Notre travail</a>
       <a href="../vue/Avis.vue.php">Avis</a>
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
 
+<p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>
 
 
 

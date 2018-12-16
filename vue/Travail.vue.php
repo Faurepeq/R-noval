@@ -20,7 +20,6 @@
       <a href="../vue/Avis.vue.php">Avis</a>
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
-<p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>
 <h2>Mes services</h2>
 
 <div class="service">
