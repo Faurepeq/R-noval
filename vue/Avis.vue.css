@@ -71,7 +71,6 @@ nav a:hover {
 }
 
 .background{
-  position: absolute;
 }
 
 .avis{
@@ -79,6 +78,7 @@ nav a:hover {
   width: 100%;
   justify-content: space-around;
   flex-wrap: wrap;
+  background-image: url(../modele/data/background.jpg);
 }
 
 .unAvis{
