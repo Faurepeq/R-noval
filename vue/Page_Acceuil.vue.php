@@ -13,7 +13,7 @@
       </div>
       <div class="rubrique">
         <a href="../vue/Galerie.vue.php"><p>Galerie</p></a>
-        <a href="../vue/Travail.vue.php"><p><p>Notre travail</p></a>
+        <a href="../vue/Travail.vue.php"><p>Notre travail</p></a>
         <a href="../vue/Avis.vue.php"><p>Avis</p></a>
         <a href="../vue/Contact.vue.php"><p>Contactez-Nous</p></a>
       </div>
