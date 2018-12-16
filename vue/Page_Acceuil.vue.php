@@ -6,16 +6,11 @@
     <title>Rénoval</title>
   </head>
   <body>
-<!--logo et titre de la page-->
-    <div class="titre">
-
-    </div>
-    </div>
     <!--Navigateur-->
     <nav>
 
       <a href="../vue/Page_Acceuil.vue.php"><img src="../modele/data/logo.jpg" alt="logo"></a>
-      <a href="../vue/Page_Acceuil.vue.php"><div class="nomslogan"><h1>Rénoval</h1></a>
+      <a href="../vue/Page_Acceuil.vue.php"><div class="nomslogan">Rénoval</a>
       <a href="../vue/Galerie.vue.php">Galerie</a>
       <a href="../vue/Travail.vue.php">Notre travail</a>
       <a href="../vue/Avis.vue.php">Avis</a>
