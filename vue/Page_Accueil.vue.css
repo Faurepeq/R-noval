@@ -13,8 +13,8 @@ nav {
   display: flex;
   justify-content: space-around;
   background-color: #211F1F;
-  width: 100%;
-  height: 80px;
+  width: 1080px;
+  height: 90px;
   margin: 0;
   margin-bottom: 10px;
 }
@@ -23,20 +23,16 @@ nav a {
   font-weight: bold;
   font-size: 30px;
   color: white;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  height: 80%;
-  margin-top: 3px;
-  margin-bottom: 5px;
+  background-color: #413D3D;
+  padding-left: px;
+  padding-right: px;
+  height: 70%;
+  margin-top: 20px;
+  margin-bottom: 15px
 }
 nav a:hover {
   font-weight: bold;
   background-color: black;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  height: 80%;
 }
 
 
