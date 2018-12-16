@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
-<link rel="stylesheet" href="laisser_avis.vue.css">
+<link rel="stylesheet" href="Laisser_avis.vue.css">
   <head>
     <meta charset="utf-8">
     <title>Rénoval</title>

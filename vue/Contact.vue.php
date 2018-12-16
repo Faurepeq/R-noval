@@ -16,7 +16,7 @@
 <!--Navigateur-->
 <nav>
   <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
-  <a href="../vue/Galerie.vue.php">Galerie</a>
+  <a href="../controller/Galerie.controller.php">Galerie</a>
   <a href="../vue/Travail.vue.php">Notre travail</a>
   <a href="../vue/Avis.vue.php">Avis</a>
   <a href="../vue/Contact.vue.php">Contactez-Nous</a>
@@ -65,7 +65,6 @@
     </form>
     <p>* Obligatoire</p>
 <!--Contact-->
-<?php echo"bite" ?>
     <div class="contact">
       <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
       <div class="infos">
