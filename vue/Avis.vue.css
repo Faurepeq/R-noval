@@ -73,12 +73,14 @@ nav a:hover {
   background-image: url("../modele/data/background.jpg");
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 .avis{
   background-color: white;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   width: 60%;
 }
 .titre{
