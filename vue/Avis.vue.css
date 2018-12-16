@@ -79,6 +79,7 @@ nav a:hover {
   justify-content: space-around;
   flex-wrap: wrap;
   background-image: url(../modele/data/background.jpg);
+  background-attachment: fixed;
 }
 
 .unAvis{
