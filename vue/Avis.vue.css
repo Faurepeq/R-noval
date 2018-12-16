@@ -57,17 +57,7 @@ nav a {
   margin-top: 3px;
   margin-bottom: 5px;
 }
-nav a:hover {
-  font-weight: bold;
-  font-size: 30px;
-  background-color: white;
-  color: green;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  height: 80%;
-  margin-top: 3px;
-}
+
 
 .background{
 }
