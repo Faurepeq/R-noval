@@ -65,7 +65,7 @@
     </form>
     <p>* Obligatoire</p>
 <!--Contact-->
-
+<?php  ?>
     <div class="contact">
       <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
       <div class="infos">
