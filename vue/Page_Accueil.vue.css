@@ -23,6 +23,7 @@ nav {
   padding-right: 3px;
 }
 nav a {
+  width:110;
   font-family: "gill";
   font-weight: bold;
   font-size: 30px;
@@ -31,7 +32,6 @@ nav a {
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 27px;
-  margin-top: 20px;
   height: 100%;
 }
 nav a:hover {
@@ -40,6 +40,7 @@ nav a:hover {
 }
 nav p{
   margin: 0;
+  padding: 0;
 }
 
 
