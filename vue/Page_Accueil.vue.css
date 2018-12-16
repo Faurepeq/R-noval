@@ -10,6 +10,7 @@ a{
 
 /*Navigateur*/
 nav {
+  position: fixed;
   display: flex;
   justify-content: space-between;
   background-color: #211F1F;
@@ -18,8 +19,8 @@ nav {
   margin: 0;
   margin-bottom: 10px;
   padding-top: 3px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 nav a {
   vertical-align: middle;
