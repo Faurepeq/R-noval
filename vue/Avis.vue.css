@@ -77,7 +77,7 @@ nav a:hover {
 
 .avis{
   display: flex;
-  width: 100%;
+  width: 60%;
   justify-content: space-around;
   flex-wrap: wrap;
   background-image: url(../modele/data/background.jpg);
