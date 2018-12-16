@@ -17,6 +17,7 @@ nav {
   height: 70px;
   margin: 0;
   margin-bottom: 10px;
+  padding-top: 5px;
 }
 nav a {
   font-family: "gill";
@@ -26,7 +27,6 @@ nav a {
   background-color: #413D3D;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 5px;
   padding-bottom: 5px;
   height: 100%;
 }
