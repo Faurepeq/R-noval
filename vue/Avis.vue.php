@@ -21,20 +21,20 @@
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
     <?php
-    echo"<div class="avis">";
+    echo"<div class=\"avis\">";
       echo"<h3>Top avis</h3>";
-      echo"<a href="laisser_avis.vue.php">Laisser un avis</a>"
+      echo"<a href=\"laisser_avis.vue.php\">Laisser un avis</a>";
     echo"</div>";
-      echo"<div class="unAvis">";
+      echo"<div class=\"unAvis\">";
         echo"<h4>Un utilisateur</h4>";
         echo"<p></p>";
         echo"<p>NB etoiles sur 5</p>";
       echo"</div>";
-      echo"<div class="avis">";
+      echo"<div class=\"avis\">";
         echo"<h3>les derniers avis</h3>";
-        echo"<a href="laisser_avis.vue.php">Laisser un avis</a>"
+        echo"<a href=\"laisser_avis.vue.php\">Laisser un avis</a>";
       echo"</div>";
-        echo"<div class="unAvis">";
+        echo"<div class=\"unAvis\">";
           echo"<h4>Un utilisateur</h4>";
           echo"<p></p>";
           echo"<p>NB etoiles sur 5</p>";
