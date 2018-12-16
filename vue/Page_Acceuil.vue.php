@@ -8,7 +8,7 @@
   <body>
     <!--Navigateur-->
     <nav>
-      <a href="../vue/Page_Acceuil.vue.php"><div class="nomslogan">Rénoval</a>
+      <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
       <a href="../vue/Galerie.vue.php">Galerie</a>
       <a href="../vue/Travail.vue.php">Notre travail</a>
       <a href="../vue/Avis.vue.php">Avis</a>
