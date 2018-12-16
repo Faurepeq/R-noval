@@ -9,7 +9,7 @@
     <!--Navigateur-->
     <nav>
       <div class="logo">
-        <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
+        <a href="../vue/Page_Acceuil.vue.php"><p>Rénoval</p></a>
       </div>
       <div class="rubrique">
         <a href="../vue/Galerie.vue.php">Galerie</a>
