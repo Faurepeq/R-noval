@@ -72,17 +72,16 @@ nav a:hover {
 .background{
   background-image: url("../modele/data/background.jpg");
   width: 100%;
+  display: flex;
   justify-content: center;
 }
 .avis{
   background-color: white;
-  width: 50%;
-  justify-content: center;
-}
-.miseenpage{
-
-  display: flex;
   width: 60%;
+}
+.titre{
+  display: flex;
+  width: 100%;
   justify-content: space-around;
   flex-wrap: wrap;
   background-color: white;

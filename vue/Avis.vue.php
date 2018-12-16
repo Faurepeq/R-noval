@@ -23,7 +23,7 @@
     <div class="background">
       <div class="avis">
     <?php
-    echo"<div class=\"miseenpage\">";
+    echo"<div class=\"titre\">";
       echo"<h3>Top avis</h3>";
       echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
     echo"</div>";
@@ -32,7 +32,7 @@
         echo"<p>fdfdfdfd</p>";
         echo"<p>NB etoiles sur 5</p>";
       echo"</div>";
-      echo"<div class=\"miseenpage\">";
+      echo"<div class=\"titre\">";
         echo"<h3>les derniers avis</h3>";
         echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
       echo"</div>";
