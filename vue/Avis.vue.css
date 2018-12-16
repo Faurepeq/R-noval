@@ -70,6 +70,8 @@ nav a:hover {
 }
 
 .background{
+  background-image: url("../modele/data/background.jpg");
+  background-attachment: fixed;
 }
 
 .avis{
@@ -77,8 +79,6 @@ nav a:hover {
   width: 60%;
   justify-content: space-around;
   flex-wrap: wrap;
-  background-image: url("../modele/data/background.jpg");
-  background-attachment: fixed;
 
 }
 

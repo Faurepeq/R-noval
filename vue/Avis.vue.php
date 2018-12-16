@@ -20,7 +20,7 @@
       <a href="../vue/Avis.vue.php">Avis</a>
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
-    bouliedr
+    <div class="background">
     <?php
     echo"<div class=\"avis\">";
       echo"<h3>Top avis</h3>";
@@ -41,6 +41,7 @@
           echo"<p>NB etoiles sur 5</p>";
         echo"</div>";
      ?>
+     </div>
 <!--Contact-->
     <div class="contact">
       <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
