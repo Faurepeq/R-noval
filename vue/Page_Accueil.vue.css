@@ -24,11 +24,9 @@ nav a {
   font-size: 30px;
   color: white;
   background-color: #413D3D;
-  padding-left: px;
-  padding-right: px;
-  height: 70%;
-  margin-top: 35px;
-  margin-bottom: 15px
+  padding-left: 35px;
+  padding-right: 35px;
+  height: 100%;
 }
 nav a:hover {
   font-weight: bold;
