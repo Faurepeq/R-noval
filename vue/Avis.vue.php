@@ -16,7 +16,7 @@
     <nav>
       <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
       <a href="../vue/Galerie.vue.php">Galerie</a>
-      <a href="../vue/Travail.vue.php">Notre travail</a>
+      <a href="../vue/Travail.vue.php">Mon travail</a>
       <a href="../vue/Avis.vue.php">Avis</a>
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
@@ -42,7 +42,7 @@
           echo"<p>fdfdfdfdf</p>";
           echo"<p>NB etoiles sur 5</p>";
         echo"</div>";
-      }  
+      }
      ?>
      </div>
      </div>
