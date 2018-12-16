@@ -27,7 +27,7 @@
     echo"</div>";
       echo"<div class=\"unAvis\">";
         echo"<h4>Un utilisateur</h4>";
-        echo"<p></p>";
+        echo"<p>fdfdfdfd</p>";
         echo"<p>NB etoiles sur 5</p>";
       echo"</div>";
       echo"<div class=\"avis\">";
@@ -36,7 +36,7 @@
       echo"</div>";
         echo"<div class=\"unAvis\">";
           echo"<h4>Un utilisateur</h4>";
-          echo"<p></p>";
+          echo"<p>fdfdfdfdf</p>";
           echo"<p>NB etoiles sur 5</p>";
         echo"</div>";
      ?>
