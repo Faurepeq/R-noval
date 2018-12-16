@@ -71,10 +71,15 @@ nav a:hover {
 
 .background{
   background-image: url("../modele/data/background.jpg");
-  width: 100%
+  width: 100%;
+  justify-content: center;
 }
-
 .avis{
+  background-color: white;
+  justify-content: center;
+}
+.miseenpage{
+
   display: flex;
   width: 60%;
   justify-content: space-around;

@@ -21,8 +21,9 @@
       <a href="../vue/Contact.vue.php">Contactez-Nous</a>
     </nav>
     <div class="background">
+      <div class="avis">
     <?php
-    echo"<div class=\"avis\">";
+    echo"<div class=\"miseenpage\">";
       echo"<h3>Top avis</h3>";
       echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
     echo"</div>";
@@ -31,7 +32,7 @@
         echo"<p>fdfdfdfd</p>";
         echo"<p>NB etoiles sur 5</p>";
       echo"</div>";
-      echo"<div class=\"avis\">";
+      echo"<div class=\"miseenpage\">";
         echo"<h3>les derniers avis</h3>";
         echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
       echo"</div>";
@@ -41,6 +42,7 @@
           echo"<p>NB etoiles sur 5</p>";
         echo"</div>";
      ?>
+     </div>
      </div>
 <!--Contact-->
     <div class="contact">
