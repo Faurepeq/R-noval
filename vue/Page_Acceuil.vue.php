@@ -8,11 +8,15 @@
   <body>
     <!--Navigateur-->
     <nav>
-      <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
-      <a href="../vue/Galerie.vue.php">Galerie</a>
-      <a href="../vue/Travail.vue.php">Notre travail</a>
-      <a href="../vue/Avis.vue.php">Avis</a>
-      <a href="../vue/Contact.vue.php">Contactez-Nous</a>
+      <div class="logo">
+        <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
+      </div>
+      <div class="rubrique">
+        <a href="../vue/Galerie.vue.php">Galerie</a>
+        <a href="../vue/Travail.vue.php">Notre travail</a>
+        <a href="../vue/Avis.vue.php">Avis</a>
+        <a href="../vue/Contact.vue.php">Contactez-Nous</a>
+      </div>
     </nav>
 
 <p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>

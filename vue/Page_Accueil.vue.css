@@ -11,9 +11,9 @@ a{
 /*Navigateur*/
 nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   background-color: #211F1F;
-  width: 1080px;
+  width: 100%;
   height: 90px;
   margin: 0;
   margin-bottom: 10px;
@@ -27,7 +27,7 @@ nav a {
   padding-left: px;
   padding-right: px;
   height: 70%;
-  margin-top: 20px;
+  margin-top: 35px;
   margin-bottom: 15px
 }
 nav a:hover {
