@@ -70,6 +70,9 @@ nav a:hover {
 }
 
 .background{
+  height: 1000px;
+  background-image: url(../modele/data/background.jpg);
+  background-attachment: fixed;
 }
 
 .avis{
@@ -79,6 +82,7 @@ nav a:hover {
   flex-wrap: wrap;
   background-image: url(../modele/data/background.jpg);
   background-attachment: fixed;
+
 }
 
 .unAvis{
@@ -88,8 +92,6 @@ nav a:hover {
   flex-wrap: wrap;
   border: solid black 2px;
   margin: 10px 0px;
-  background-image: url(../modele/data/background.jpg);
-  background-attachment: fixed;
 
 }
 .unAvis p{
@@ -97,15 +99,12 @@ text-align: center;
 width: 100%;
 border: solid black 2px;
 margin: 2px 0px 10px 0px;
-background-image: url(../modele/data/background.jpg);
-background-attachment: fixed;
+
   }
 
 h4{
   margin: 0;
   width: 100%;
-  background-image: url(../modele/data/background.jpg);
-  background-attachment: fixed;
 
 }
 
