@@ -23,16 +23,16 @@
 <div class="galerie">
   <div class="avant">
     <h3>Avant</h3>
-    <img src="" alt="avant">
+    <img src="../modele/data/avant.jpg" alt="avant">
   </div>
   <div class="apres">
     <h3>Après</h3>
-    <img src="" alt="apres">
+    <img src="../modele/data/apres.jpg" alt="apres">
   </div>
 </div>
 <div class="bouton">
-  <img src="" alt="previous">
-  <img src="" alt="after">
+  <img src="../modele/data/gauche.png" alt="previous">
+  <img src="../modele/data/droite.png" alt="after">
 </div>
 
 

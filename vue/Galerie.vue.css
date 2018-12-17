@@ -72,8 +72,15 @@ border: solid black 2px;
 h3{
   width: 100%
 }
-
-
+.bouton{
+  display: flex;
+  justify-content: center;
+}
+.bouton img{
+  margin: 5px;
+  height: 40px;
+  width: 60px;
+}
 
 
 
