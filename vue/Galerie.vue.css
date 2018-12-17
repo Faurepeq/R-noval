@@ -41,10 +41,37 @@ nav a:hover {
   border: solid white 1px;
 }
 
-
-
-
-
+.galerie{
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+.avant{
+width: 50%;
+display:flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.avant img{
+width: 300px;
+height: 165px;
+border: solid black 2px;
+}
+.apres{
+  width: 50%;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.apres img{
+  width: 300px;
+  height: 165px;
+  border: solid black 2px;
+}
+h3{
+  width: 100%
+}
 
 
 

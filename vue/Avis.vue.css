@@ -49,12 +49,12 @@ nav a:hover {
   margin-top: 80px;
 }
 .avis{
-  margin-top: 80px;
+  margin-top: 70px;
   background-color: white;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  width: 60%;
+  width: 50%;
 }
 .titreAvis{
   display: flex;

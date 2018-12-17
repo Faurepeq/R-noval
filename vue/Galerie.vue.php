@@ -19,6 +19,21 @@
         <a href="../vue/Contact.vue.php">Contactez-Nous</a>
       </div>
     </nav>
+<h2>Mes plus belles réalisations</h2>
+<div class="galerie">
+  <div class="avant">
+    <h3>Avant</h3>
+    <img src="" alt="avant">
+  </div>
+  <div class="apres">
+    <h3>Après</h3>
+    <img src="" alt="apres">
+  </div>
+</div>
+<div class="bouton">
+  <img src="" alt="previous">
+  <img src="" alt="after">
+</div>
 
 
 
