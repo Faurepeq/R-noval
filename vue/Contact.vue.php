@@ -6,12 +6,6 @@
     <title>Rénoval</title>
   </head>
   <body>
-<!--logo et titre de la page-->
-    <div class="titre">
-    <img src="../modele/data/logo.jpg" alt="logo">
-    <div class="nomslogan"><h1>Rénoval</h1>
-    </div>
-    </div>
 
     <!--Navigateur-->
     <nav>
