@@ -73,7 +73,7 @@ nav a:hover {
   flex-wrap: wrap;
   font-size: 20px;
   border: solid black 3px;
-  width: 100%
+  width: 100%;
 }
 .contact a{
   color:white;
@@ -95,7 +95,7 @@ h3{
 .contact p{
   margin: 0;
   margin-left: 5px;
-  color: white
+  color: white;
 }
 
 .contact .infos{
