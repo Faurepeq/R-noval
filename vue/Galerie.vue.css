@@ -68,8 +68,8 @@ justify-content: center;
 flex-wrap: wrap;
 }
 .avant img{
-width: 400px;
-height: 205px;
+width: 45%;
+height: 45%;
 border: solid black 2px;
 }
 .apres{
@@ -79,8 +79,8 @@ border: solid black 2px;
   flex-wrap: wrap;
 }
 .apres img{
-  width: 400px;
-  height: 205px;
+width: 45%;
+height: 45%;
   border: solid black 2px;
 }
 
