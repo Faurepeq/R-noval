@@ -51,6 +51,15 @@ h2{
   justify-content: center;
   flex-wrap: nowrap;
 }
+.avantapres{
+  display: flex;
+  justify-content:space-around;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+h3{
+  width: 100%
+}
 .avant{
 width: 49%;
 display:flex;
@@ -73,9 +82,7 @@ border: solid black 2px;
   height: 205px;
   border: solid black 2px;
 }
-h3{
-  width: 49%
-}
+
 .bouton{
   display: flex;
   justify-content: center;

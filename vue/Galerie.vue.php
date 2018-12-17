@@ -21,8 +21,10 @@
     </nav>
 <h2>Mes plus belles réalisations</h2>
 <div class="galerie">
-  <h3>Avant</h3>
-  <h3>Après</h3>
+  <div class="avantapres">
+    <h3>Avant</h3>
+    <h3>Après</h3>
+  </div>
   <div class="avant">
     <img src="../modele/data/avant.jpg" alt="avant">
   </div>
