@@ -127,6 +127,7 @@ height: 250px;
 
 /*Contact*/
 .contact{
+  background-color: #211F1F;
   padding-bottom: 10px;
   justify-content: center;
   display: flex;
@@ -136,15 +137,17 @@ height: 250px;
   width: 100%
 }
 .contact a{
-  color:green;
+  color:white;
   font-weight: bold;
   padding: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
   border: solid black 2px;
+  background-color: #413D3D;
 }
 .contact a:hover{
-  border: solid green 2px;
+  border: solid white 2px;
+  background-color: black;
 }
 h3{
   margin: 0;
@@ -153,6 +156,7 @@ h3{
 .contact p{
   margin: 0;
   margin-left: 5px;
+  color: white
 }
 
 .contact .infos{
@@ -160,7 +164,9 @@ h3{
   display: flex;
   justify-content:space-around;
 }
-
+u{
+  color: white;
+}
 .item {
   display: flex;
   margin: 0;
