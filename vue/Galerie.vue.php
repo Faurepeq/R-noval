@@ -33,8 +33,10 @@
   </div>
 </div>
 <div class="bouton">
-  <img src="../modele/data/gauche.png" alt="previous">
-  <img src="../modele/data/droite.png" alt="after">
+<h4>Réalisation Précédente</h4>
+<a href="#"><img src="../modele/data/gauche.png" alt="previous"></a>
+<a href="#"><img src="../modele/data/droite.png" alt="after"></a>
+<h4>Réalisation Suivante</h4>
 </div>
 
 
