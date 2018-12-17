@@ -21,7 +21,7 @@
     </nav>
 
 <!--formulaire de contact-->
-    <form class="formulaire" action="index.php" method="post">
+    <div class="formulaire" action="index.php" method="post">
       <div class="item">
         <p>Nom*</p>
         <input type="text" class="nom" placeholder="Nom"required >
@@ -60,7 +60,7 @@
         minlength="4" maxlength="8" size="10">
       </div>
         <input class="envoi" type="submit" value="Envoyer">
-    </form>
+    </div>
     <p>* Obligatoire</p>
 <!--Contact-->
     <div class="contact">
