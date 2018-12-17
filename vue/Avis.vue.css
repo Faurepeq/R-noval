@@ -39,14 +39,14 @@ nav a:hover {
   background-color: black;
   border: solid white 1px;
 }
-
+/*Corps de la page*/
 .background{
   background-image: url("../modele/data/background.jpg");
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 .avis{
   margin-top: 70px;
