@@ -73,14 +73,14 @@ h1{
   justify-content: center;
   width: 95%;
   flex-wrap: wrap;
-  border: solid black 2px;
+  border-top: solid black 2px;
+  border-bottom: solid black 2px;
   margin: 10px 0px;
 
 }
 .unAvis p{
 text-align: center;
 width: 100%;
-border: solid black 2px;
 margin: 2px 0px 10px 0px;
 
   }
