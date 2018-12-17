@@ -16,10 +16,11 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-moi</a>
+        <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
     <div class="background">
+      <h1>Avis clients</h1>
       <div class="avis">
     <?php
     echo"<div class=\"titreAvis\">";

@@ -20,6 +20,7 @@
     </nav>
 
 <!--formulaire pour laisser un avis-->
+<h1>Laisser un avis</h1>
 <div class="laisseavis">
   <input type="text" class="nom"  v placeholder="nom ou pseudo">
   <input type="text"  class="avistext" placeholder="laisser un avis">

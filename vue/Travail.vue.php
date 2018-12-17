@@ -16,10 +16,10 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-moi</a>
+        <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
-<h2>Mes services</h2>
+<h1>Mes services</h1>
 
 <div class="service">
 <h3>Rénovation intérieur/extérieur</h3>

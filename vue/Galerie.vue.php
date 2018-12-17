@@ -16,10 +16,11 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-moi</a>
+        <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
-<h2>Mes plus belles réalisations</h2>
+    <h1>Galerie photos</h1>
+<h2>Quelques Avant/Après</h2>
 <div class="galerie">
   <div class="avantapres">
     <h3>Avant</h3>

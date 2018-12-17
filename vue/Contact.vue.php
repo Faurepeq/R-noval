@@ -16,11 +16,12 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-moi</a>
+        <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
 
 <!--formulaire de contact-->
+<h1>Contact</h1>
     <div class="formulaire" action="index.php" method="post">
       <div class="item">
         <p>Nom*</p>

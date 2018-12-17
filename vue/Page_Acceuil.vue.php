@@ -15,10 +15,10 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-moi</a>
+        <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
-
+    <h1>Bienvenue sur Rénoval</h1>
 <p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>
 
 
