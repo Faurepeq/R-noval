@@ -2,12 +2,12 @@
 <html lang="fr" dir="ltr">
 <link rel="stylesheet" href="Galerie.vue.css">
   <head>
-    <meta charset="utf-8">
+      <meta charset="utf-8">
     <title>Rénoval</title>
   </head>
   <body>
 
-    <!--Navigateur-->
+<!--Navigateur-->
     <nav>
       <div class="logo">
         <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
