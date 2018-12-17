@@ -28,6 +28,7 @@ nav a {
   font-size: 30px;
   color: white;
   background-color: #413D3D;
+  border: solid black 2px;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 27px;
@@ -37,6 +38,7 @@ nav a {
 nav a:hover {
   font-weight: bold;
   background-color: black;
+  border: solid white 2px;
 }
  p{
   margin-top: 100px;
@@ -76,7 +78,7 @@ nav a:hover {
   background-color: #413D3D;
 }
 .contact a:hover{
-  border: solid white 1px;
+  border: solid white 2px;
   background-color: black;
 }
 h3{
@@ -94,7 +96,9 @@ h3{
   display: flex;
   justify-content:space-around;
 }
-
+u{
+  color: white;
+}
 .item {
   display: flex;
   margin: 0;
