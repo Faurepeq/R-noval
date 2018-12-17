@@ -41,6 +41,9 @@ nav a:hover {
   border: solid white 1px;
 }
 /*Corps de la page*/
+h1{
+  margin-top: 70px;
+}
 .background{
   background-image: url("../modele/data/background.jpg");
   width: 100%;
