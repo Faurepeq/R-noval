@@ -42,13 +42,14 @@ nav a:hover {
 }
 
 .galerie{
+  width: 100%;
   margin-top: 70px;
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
 }
 .avant{
-width: 50%;
+width: 49%;
 display:flex;
 justify-content: center;
 flex-wrap: wrap;
@@ -59,14 +60,14 @@ height: 165px;
 border: solid black 2px;
 }
 .apres{
-  width: 50%;
+  width: 49%;
   display:flex;
   justify-content: center;
   flex-wrap: wrap;
 }
 .apres img{
-  width: 300px;
-  height: 165px;
+  width: 250px;
+  height: 135px;
   border: solid black 2px;
 }
 h3{
@@ -75,6 +76,9 @@ h3{
 .bouton{
   display: flex;
   justify-content: center;
+  height: 40px;
+  width: 150px;
+
 }
 .bouton img{
   margin: 5px;
