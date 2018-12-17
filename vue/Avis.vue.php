@@ -16,7 +16,7 @@
         <a href="../vue/Galerie.vue.php">Galerie</a>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
-        <a href="../vue/Contact.vue.php">Contactez-Nous</a>
+        <a href="../vue/Contact.vue.php">Contactez-moi</a>
       </div>
     </nav>
     <div class="background">
@@ -47,7 +47,7 @@
      </div>
 <!--Contact-->
     <div class="contact">
-      <a href="../vue/Contact.vue.php"><h3>Contactez-nous !</h3></a>
+      <a href="../vue/Contact.vue.php"><h3>Contactez-moi !</h3></a>
       <div class="infos">
       <div class="item"><u>Téléphone :</u>
       <p> 06 25 01 27 48</p>
