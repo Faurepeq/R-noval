@@ -12,13 +12,17 @@
     <div class="nomslogan"><h1>Rénoval</h1>
     </div>
     </div>
-<!--Navigateur-->
+    <!--Navigateur-->
     <nav>
-      <a href="../vue/Page_Acceuil.vue.php">Accueil</a>
-      <a href="../vue/Galerie.vue.php">Galerie</a>
-      <a href="../vue/Travail.vue.php">Mon travail</a>
-      <a href="../vue/Avis.vue.php">Avis</a>
-      <a href="../vue/Contact.vue.php">Contactez-Nous</a>
+      <div class="logo">
+        <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
+      </div>
+      <div class="rubrique">
+        <a href="../vue/Galerie.vue.php">Galerie</a>
+        <a href="../vue/Travail.vue.php">Mon travail</a>
+        <a href="../vue/Avis.vue.php">Avis</a>
+        <a href="../vue/Contact.vue.php">Contactez-Nous</a>
+      </div>
     </nav>
 <h2>Mes services</h2>
 

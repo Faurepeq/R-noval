@@ -21,72 +21,7 @@
 
 <p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>
 
-<?php
-echo"<div class=\"titreAvis\">";
-  echo"<h3>Top avis</h3>";
-  echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
-echo"</div>";
-  echo"<div class=\"unAvis\">";
-    echo"<h4>Un utilisateur</h4>";
-    echo"<p>fdfdfdfd</p>";
-    echo"<p>NB etoiles sur 5</p>";
-  echo"</div>";
-  echo"<div class=\"titreAvis\">";
-    echo"<h3>les derniers avis</h3>";
-    echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
-  echo"</div>";
-  for($i=0;$i<30;$i++){
-    echo"<div class=\"unAvis\">";
-      echo"<h4>Un utilisateur</h4>";
-      echo"<p>fdfdfdfdf</p>";
-      echo"<p>NB etoiles sur 5</p>";
-    echo"</div>";
-  }
- ?>
- <?php
- echo"<div class=\"titreAvis\">";
-   echo"<h3>Top avis</h3>";
-   echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
- echo"</div>";
-   echo"<div class=\"unAvis\">";
-     echo"<h4>Un utilisateur</h4>";
-     echo"<p>fdfdfdfd</p>";
-     echo"<p>NB etoiles sur 5</p>";
-   echo"</div>";
-   echo"<div class=\"titreAvis\">";
-     echo"<h3>les derniers avis</h3>";
-     echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
-   echo"</div>";
-   for($i=0;$i<30;$i++){
-     echo"<div class=\"unAvis\">";
-       echo"<h4>Un utilisateur</h4>";
-       echo"<p>fdfdfdfdf</p>";
-       echo"<p>NB etoiles sur 5</p>";
-     echo"</div>";
-   }
-  ?>
-  <?php
-  echo"<div class=\"titreAvis\">";
-    echo"<h3>Top avis</h3>";
-    echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
-  echo"</div>";
-    echo"<div class=\"unAvis\">";
-      echo"<h4>Un utilisateur</h4>";
-      echo"<p>fdfdfdfd</p>";
-      echo"<p>NB etoiles sur 5</p>";
-    echo"</div>";
-    echo"<div class=\"titreAvis\">";
-      echo"<h3>les derniers avis</h3>";
-      echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
-    echo"</div>";
-    for($i=0;$i<30;$i++){
-      echo"<div class=\"unAvis\">";
-        echo"<h4>Un utilisateur</h4>";
-        echo"<p>fdfdfdfdf</p>";
-        echo"<p>NB etoiles sur 5</p>";
-      echo"</div>";
-    }
-   ?>
+
 
 
 <!--Contact-->

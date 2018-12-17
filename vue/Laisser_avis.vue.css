@@ -7,64 +7,38 @@ body {
 a{
   text-decoration: none;
 }
-/*logo et titre*/
-.titre{
-  display:flex;
-  flex-wrap: nowrap;
-  width: 100%;
-  justify-content: center;
-  height: 180px;
-}
-.titre img{
-  height: 130px;
-  width: 150px;
-  margin: 30px;
-}
-.nomslogan{
-  text-align: center;
-  height: 180px;
-}
-h1{
-  font-size: 54px;
-  color: green;
-  margin: 0;
-  margin-top: 30px;
-  font-weight: bold;
-}
-h2{
-  font-size: 26px;
-  margin: 0;
-}
 /*Navigateur*/
 nav {
+  position: fixed;
+  top: 0;
   display: flex;
-  justify-content: space-around;
-  background-color: grey;
-  border-radius: 10px;
+  justify-content: space-between;
+  background-color: #211F1F;
   width: 100%;
-  height: 40px;
+  height: 70px;
   margin: 0;
   margin-bottom: 10px;
+  padding-top: 3px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 nav a {
   font-family: "gill";
   font-weight: bold;
   font-size: 30px;
   color: white;
+  background-color: #413D3D;
+  border: solid black 1px;
   padding-left: 10px;
   padding-right: 10px;
-  border-radius: 10px;
-  height: 80%;
-  margin-top: 3px;
-  margin-bottom: 5px;
+  padding-bottom: 27px;
+  margin: 1px;
+  height: 100%;
 }
 nav a:hover {
-  background-color: white;
-  color: green;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 10px;
-  height: 80%;
+  font-weight: bold;
+  background-color: black;
+  border: solid white 1px;
 }
 
 /*formulaire pour laisser un avis*/
