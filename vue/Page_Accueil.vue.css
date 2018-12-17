@@ -28,17 +28,17 @@ nav a {
   font-size: 30px;
   color: white;
   background-color: #413D3D;
-  border: solid black 2px;
+  border: solid black 1px;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 27px;
-  margin: 2px;
+  margin: 1px;
   height: 100%;
 }
 nav a:hover {
   font-weight: bold;
   background-color: black;
-  border: solid white 2px;
+  border: solid white 1px;
 }
  p{
   margin-top: 100px;
