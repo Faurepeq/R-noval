@@ -33,18 +33,18 @@
       echo"<div class=\"unAvis\">";
         echo"<h4>Un utilisateur</h4>";
         echo"<p>fdfdfdfd</p>";
-        echo"<p>NB etoiles sur 5</p>";
+        echo"<h5> 5 <img src=\"../vue/data/etoile.png\" alt=\"etoiles\"></h5>";
       echo"</div>";
     }
       echo"<div class=\"titreAvis\">";
         echo"<h3>les derniers avis</h3>";
         echo"<a href=\"Laisser_avis.vue.php\">Laisser un avis</a>";
       echo"</div>";
-      for($i=0;$i<20;$i++){
+      for($i=0;$i<10;$i++){
         echo"<div class=\"unAvis\">";
           echo"<h4>Un utilisateur</h4>";
           echo"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>";
-          echo"<h5>NB etoiles sur 5</h5>";
+          echo"<h5> 5 <img src=\"../vue/data/etoile.png\" alt=\"etoiles\"></h5>";
         echo"</div>";
       }
      ?>
