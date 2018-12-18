@@ -19,8 +19,10 @@
         <a href="../vue/Contact.vue.php">Contact</a>
       </div>
     </nav>
-    <h1>Galerie photos</h1>
-<h2>Quelques Avant/Après</h2>
+    <div class="titre">
+      <h1>Galerie photos</h1>
+      <h2>Quelques Avant/Après</h2>
+    </div>
 <div class="galerie">
   <div class="avantapres">
     <h3>Avant</h3>
