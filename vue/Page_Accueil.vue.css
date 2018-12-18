@@ -31,10 +31,9 @@ nav a {
   color: white;
   background-color: #413D3D;
   border: solid black 1px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 27px;
-  margin: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 30px;
   height: 100%;
 }
 nav a:hover {
