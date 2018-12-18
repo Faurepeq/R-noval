@@ -13,7 +13,9 @@
         <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
       </div>
       <div class="rubrique">
-        <a href="../vue/Galerie.vue.php">Galerie</a>
+      <?php
+      $id=$_GET['id']; 
+      echo"<a href=\"../vue/Galerie.vue.php?id=1\">Galerie</a>"; ?>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
         <a href="../vue/Contact.vue.php">Contact</a>
@@ -29,16 +31,17 @@
     <h3>Après</h3>
   </div>
   <div class="avant">
-    <img src="../modele/data/<?php echo"avant.jpg";?>" alt="avant">
+    <img src="../modele/data/<?php echo"avant$id.jpg";?>" alt="avant">
   </div>
   <div class="apres">
-    <img src="../modele/data/<?php echo"apres.jpg";?>" alt="apres">
+    <img src="../modele/data/<?php echo"apres$id.jpg";?>" alt="apres">
   </div>
 </div>
 <div class="bouton">
 <h4>Réalisation Précédente</h4>
-<a href="#"><img src="../modele/data/gauche.png" alt="previous"></a>
-<a href="#"><img src="../modele/data/droite.png" alt="after"></a>
+<?php
+  echo"<a href=\"../vue/Galerie.vue.php?id=$id-1\"><img src=\"../modele/data/gauche.png\" alt=\"previous\"></a>";
+  echo"<a href=\"../vue/Galerie.vue.php?id=$id+1\"><img src=\"../modele/data/droite.png\" alt=\"after\"></a>"; ?>
 <h4>Réalisation Suivante</h4>
 </div>
 

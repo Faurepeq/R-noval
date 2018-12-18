@@ -13,7 +13,9 @@
         <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
       </div>
       <div class="rubrique">
-        <a href="../vue/Galerie.vue.php">Galerie</a>
+        <?php
+        $id=$_GET['id'];
+        echo"<a href=\"../vue/Galerie.vue.php?id=1\">Galerie</a>"; ?>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
         <a href="../vue/Contact.vue.php">Contact</a>
