@@ -40,8 +40,8 @@
 <div class="bouton">
 <h4>Réalisation Précédente</h4>
 <?php
-$idsuivant=$id++;
-$idprecedent=$id--;
+$idsuivant=$id+1;
+$idprecedent=$id-1;
   echo"<a href=\"../vue/Galerie.vue.php?id=$idprecedent\"><img src=\"../modele/data/gauche.png\" alt=\"previous\"></a>";
   echo"<a href=\"../vue/Galerie.vue.php?id=$idsuivant\"><img src=\"../modele/data/droite.png\" alt=\"after\"></a>"; ?>
 <h4>Réalisation Suivante</h4>
