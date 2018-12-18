@@ -10,4 +10,4 @@ CREATE TABLE if not exists avis(
   nomUtilisateur VARCHAR (30) NOT NULL,
   texte text NOT NULL,
   etoiles int(1) UNSIGNED NOT NULL
-);
+)ENGINE=INNODB;

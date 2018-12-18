@@ -29,10 +29,10 @@
     <h3>Après</h3>
   </div>
   <div class="avant">
-    <img src="../modele/data/avant.jpg" alt="avant">
+    <img src="../modele/data/<?php echo"avant.jpg";?>" alt="avant">
   </div>
   <div class="apres">
-    <img src="../modele/data/apres.jpg" alt="apres">
+    <img src="../modele/data/<?php echo"apres.jpg";?>" alt="apres">
   </div>
 </div>
 <div class="bouton">
