@@ -7,7 +7,7 @@ CREATE TABLE projet{
 
 CREATE TABLE avis{
   numero int(6) UNSIGNED AUTO_INCREMENT primary key,
-  nomUtilisateur VARCHAR (20) NOT NULL,
-  texte VARCHAR(1000) NOT NULL,
+  nomUtilisateur VARCHAR (30) NOT NULL,
+  texte text NOT NULL,
   etoiles int(1) UNSIGNED NOT NULL
   }
