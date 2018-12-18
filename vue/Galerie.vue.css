@@ -51,7 +51,11 @@ nav a:hover {
   text-align: center;
 }
 h1{
-  width: 100%
+  width: 100%;
+  margin-bottom: 0;
+}
+h2{
+  margin-top: 0;
 }
 .galerie{
   width: 100%;
