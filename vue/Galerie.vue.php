@@ -14,7 +14,7 @@
       </div>
       <div class="rubrique">
       <?php
-      $id=$_GET['id']; 
+      $id=$_GET['id'];
       echo"<a href=\"../vue/Galerie.vue.php?id=1\">Galerie</a>"; ?>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
@@ -40,8 +40,10 @@
 <div class="bouton">
 <h4>Réalisation Précédente</h4>
 <?php
-  echo"<a href=\"../vue/Galerie.vue.php?id=$id-1\"><img src=\"../modele/data/gauche.png\" alt=\"previous\"></a>";
-  echo"<a href=\"../vue/Galerie.vue.php?id=$id+1\"><img src=\"../modele/data/droite.png\" alt=\"after\"></a>"; ?>
+$idsuivant=$id++;
+$idprecedent=$id--;
+  echo"<a href=\"../vue/Galerie.vue.php?id=$idprecedent\"><img src=\"../modele/data/gauche.png\" alt=\"previous\"></a>";
+  echo"<a href=\"../vue/Galerie.vue.php?id=$idsuivant\"><img src=\"../modele/data/droite.png\" alt=\"after\"></a>"; ?>
 <h4>Réalisation Suivante</h4>
 </div>
 
