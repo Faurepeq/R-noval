@@ -51,7 +51,15 @@ h1{
   margin-bottom: 0;
 }
 
+.rubrique{
+  justify-content: center;
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 20px;
+  border: solid black 3px;
+  width: 100%;
 
+}
 
 
 
