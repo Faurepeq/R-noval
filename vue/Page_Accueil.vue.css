@@ -29,7 +29,7 @@ nav a {
   font-size: 24px;
   color: white;
   text-align: center;
-  background-color: #211F1F
+  background-color: black
   -webkit-transition: all 0.6s ease-out; /*compatibilité chrome*/
    -moz-transition: all 0.6s ease-out; /*compatibilité firefox*/
    -o-transition: all 0.6s ease-out; /*compatibilité opéra*/
@@ -41,7 +41,7 @@ nav a {
 }
 nav a:hover {
   font-weight: bold;
-  background-color: #413D3D;
+  background-color: white;
   color: black;
   border-radius: 2px;
 }
