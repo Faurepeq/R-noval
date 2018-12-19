@@ -51,7 +51,11 @@ h1{
 margin-bottom: 20px;
 }
 .logo a{
-  background-color: #211F1F;
+  background-color: #211F1F
+  -webkit-transition: all 0.3s ease-out; /*compatibilité chrome*/
+   -moz-transition: all 0.3s ease-out; /*compatibilité firefox*/
+   -o-transition: all 0.3s ease-out; /*compatibilité opéra*/
+   transition: all 0.3s ease-out; /* Autre navigateur */;
   font-size: 32px;
   border: none;
   padding-top: 0px;
