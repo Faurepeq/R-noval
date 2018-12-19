@@ -34,6 +34,7 @@ nav a {
   padding-right: 5px;
   padding-bottom: 23px;
   height: 100%;
+  margin-top: 20px;
 }
 nav a:hover {
   font-weight: bold;
