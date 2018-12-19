@@ -51,7 +51,8 @@ h1{
 }
 .logo a{
   background-color: #211F1F;
-  font-size: 32;
+  font-size: 32px;
+  border: none;
 }
 
 
