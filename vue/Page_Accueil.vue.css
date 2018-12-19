@@ -21,6 +21,7 @@ nav {
   height: 50px;
   margin: 0;
   padding-top: 15px;
+  vertical-align: middle;
 }
 nav a {
   font-family: "gill";
@@ -36,6 +37,7 @@ nav a {
   height: 100%;
   margin-top: 10px;
   margin-bottom: 10px;
+  vertical-align: middle;
 }
 nav a:hover {
   font-weight: bold;
@@ -50,7 +52,7 @@ h1{
   margin-bottom: 0;
 }
 .logo{
-  margin-bottom: 30px;
+
 }
 .logo a{
   background-color: #211F1F;
