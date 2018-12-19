@@ -107,7 +107,11 @@ h1{
   margin-top: 10px;
   margin-bottom: 10px;
   border: solid black 2px;
-  background-color: #413D3D;
+  background-color: #413D3D
+  -webkit-transition: all 0.6s ease-out; /*compatibilité chrome*/
+   -moz-transition: all 0.6s ease-out; /*compatibilité firefox*/
+   -o-transition: all 0.6s ease-out; /*compatibilité opéra*/
+   transition: all 0.6s ease-out; /* Autre navigateur */;
 }
 .contact a:hover{
   border: solid white 2px;
