@@ -1,6 +1,7 @@
 <?php
 ini_set('display_errors','on');
 error_reporting(E_ALL);
+
 include('../modele/R-novalDAO.modele.php');
 $numero=1;
 $maxNum=$bdd->query("select max(numero)from avis");
