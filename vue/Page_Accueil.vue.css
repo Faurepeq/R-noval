@@ -58,6 +58,7 @@ h1{
   background-color: #211F1F;
   font-size: 32px;
   border: none;
+  padding-bottom: 0px;
 }
 .logo a:hover{
   border: none;
