@@ -36,11 +36,16 @@ nav a {
   height: 100%;
   padding-top: 10px;
   margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 nav a:hover {
   font-weight: bold;
   background-color: black;
   border: solid white 2px;
+}
+h4{
+  margin: 0;
 }
 h1{
   margin-top: 70px;
