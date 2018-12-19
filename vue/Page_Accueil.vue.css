@@ -41,7 +41,7 @@ nav a {
 }
 nav a:hover {
   font-weight: bold;
-  background-color: white;
+  background-color: #413D3D;
   color: black;
   border-radius: 2px;
 }
@@ -69,7 +69,7 @@ margin-bottom: 20px;
   font-family: serif;
 }
 .logo a:hover{
-  background-color: #413D3D;
+  background-color: #211F1F;
   font-size: 32px;
   border: none;
   padding-top: 0px;
