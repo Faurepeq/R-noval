@@ -9,12 +9,12 @@
     <!--Navigateur-->
     <nav>
       <div class="logo">
-        <a href="../vue/Page_Acceuil.vue.php"><h4>Rénoval</h4></a>
+        <a href="../vue/Page_Acceuil.vue.php">Rénoval</a>
       </div>
       <div class="rubrique">
         <?php
         $id=$_GET['id'];
-        echo"<a href=\"../vue/Galerie.vue.php?id=1\"><h4>Galerie</h4></a>"; ?>
+        echo"<a href=\"../vue/Galerie.vue.php?id=1\">Galerie</a>"; ?>
         <a href="../vue/Travail.vue.php">Mon travail</a>
         <a href="../vue/Avis.vue.php">Avis</a>
         <a href="../vue/Contact.vue.php">Contact</a>
