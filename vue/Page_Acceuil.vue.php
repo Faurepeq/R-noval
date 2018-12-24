@@ -22,7 +22,7 @@
     </nav>
     <h1>Bienvenue sur Rénoval</h1>
 <p>Basé en Savoie depuis 2009, je met mon expérience et ma passion au service de vos projet dans le batiment.</p>
-
+<img src="../modele/data/noel.png" alt="bite au cul">
 
 
 
